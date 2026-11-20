@@ -23,3 +23,6 @@ I investigate protocol logic, authorization, signature validation, accounting, a
 
 Vulnerabilities are reported privately through the relevant bug-bounty program or directly to the protocol team. Public write-ups and credited advisories are added only after disclosure permits publication.
 
+## Articles
+
+- [What to check before deploying with Solidity 0.8.39](https://github.com/alexandrhomeufa-dotcom/alexandrhomeufa-dotcom/blob/main/articles/solidity-0.8.39-storage-integrity.md)

@@ -4,6 +4,16 @@ Smart-contract security researcher and bug-bounty hunter focused on EVM protocol
 
 I investigate protocol logic, authorization, signature validation, accounting, and cross-contract interactions. My work emphasizes minimal reproducible Foundry PoCs, clear impact analysis, and actionable remediation guidance.
 
+## Smart contract reviews
+
+Available for scoped Solidity and EVM security reviews of authorization, wallet integrations, and DeFi accounting. I provide a written report and can review the fixes.
+
+For a quote, [open a public GitHub inquiry](https://github.com/alexandrhomeufa-dotcom/alexandrhomeufa-dotcom/issues/new?title=Solidity%20audit%20inquiry) with any public project links, what you want reviewed, and your target date. I accept payment in cryptocurrency, including USDC.
+
+## Portfolio
+
+- [Operator registry access review](reviews/operator-registry/README.md) is a demonstration review of operator permissions and two-step administrator transfer. It includes the reviewed commit, a finding, and a reproducible Foundry test suite.
+
 ## Focus areas
 
 - Smart accounts and wallet security: ERC-4337, ERC-7579, ERC-1271, Permit2, and EIP-712 signature flows
